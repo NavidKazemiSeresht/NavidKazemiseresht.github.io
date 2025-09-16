@@ -1,2 +1,2 @@
-# NavidKazemiseresht.github.io
+# NavidKazemi.github.io
 Navid Kazemi Personal Webpage
